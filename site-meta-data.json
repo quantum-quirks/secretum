@@ -1,9 +1,8 @@
 {
-  "title": "Secretum",
+  "title": "Secretum Inc",
   "siteUrl": "https://secretum.netlify.com/",
-  "description": "Secretun, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "description": "Secretum Incorporated seeks out the most fascinating technologies and rare gems of human knowledge.",
   "home": {
-    "title": "Hi! We're Secretum!",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
-  }
+    "title": "Hi! We're Secretum Incorporated!",
+    "description": "Our company has been specifically designed to become a digital home for designers and developers." 
 }
